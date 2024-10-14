@@ -1,0 +1,10 @@
+.title {
+    text-align: center;
+    margin: 50px 0px 30px;
+}
+
+.d-grit{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-gap: 30px;
+}
